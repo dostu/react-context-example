@@ -1,0 +1,26 @@
+{
+  "1": {
+     "id": 1,
+     "name": "BURTON FLIGHT ATTENDANT SPLITBOARD 2018",
+     "image": "/images/snowboard-1.jpg",
+     "price": "$639.96"
+  },
+  "2": {
+     "id": 2,
+     "name": "SALOMON GRACE SNOWBOARD 2018",
+     "image": "/images/snowboard-2.jpg",
+     "price": "$169.96"
+  },
+  "3": {
+     "id": 3,
+     "name": "BATALEON FEELBETTER SNOWBOARD 2018",
+     "image": "/images/snowboard-3.jpg",
+     "price": "$299.96"
+  },
+  "4": {
+     "id": 4,
+     "name": "NITRO UBERSPOON 2018",
+     "image": "/images/snowboard-4.jpg",
+     "price": "$599.99"
+  }
+}
